@@ -1,5 +1,5 @@
 
-Resumen de la práctica – Semana 5 (SSH) – Pedro Ruiz
+Resumen de la práctica – Semana 5 (SSH) 
 En esta práctica se configura el acceso remoto seguro mediante SSH en Ubuntu.
 Se realiza la instalación del servicio, la obtención de la IP, la conexión inicial con contraseña y la configuración de autenticación por clave pública para permitir acceso sin contraseña.
 Pasos realizados:
