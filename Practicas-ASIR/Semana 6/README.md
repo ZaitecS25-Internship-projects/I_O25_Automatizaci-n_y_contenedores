@@ -7,7 +7,7 @@ Permisos: directorios rwx propietario / r-x grupo; archivos rw propietario / r g
 Instalación y configuración:
 - Apache actualizado, activo y habilitado
 - Firewall UFW abierto para OpenSSH y Apache
-- Verificación de acceso: curl http://localhost
+- Verificación de acceso
 
 Logs y monitorización:
 - Accesos:
